@@ -99,7 +99,7 @@ headers = {
 };
 body = json.encode({
     "class_id": 3,
-    "id_no": 1. <== tidak dipakai, yang dipakai id user login
+    "id_no": 1. <== mungkin pakai id_no user login saja 
 });  
   ``` 
   
